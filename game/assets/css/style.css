@@ -1,0 +1,163 @@
+#myButton {
+    height: 80px;
+    width: 180px;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+    text-shadow: 0.5px 0.5px grey;
+
+}
+
+.scoreboard {
+background-color: white;
+width: 75%;
+box-shadow:10px 10px 10px rgba(0, 0, 0, 0.5);
+margin-left: 150px;
+margin-top: 50px;
+height: 40%;
+border-radius: 300px;
+position: absolute;
+
+
+}
+
+.wins {
+    margin-left: 100px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: black;
+    width: 300px;
+    height: 30px;
+    border-radius: 60px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+
+}
+
+.losses {
+    margin-left: 100px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: black;
+    width: 300px;
+    height: 30px;
+    border-radius: 60px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+    
+}
+
+.guessesUsed {
+    
+    margin-left: 100px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: black;
+    width: 300px;
+    height: 30px;
+    border-radius: 60px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+
+}
+
+
+.guessesRemaining{
+    margin-left: 100px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: black;
+    width: 300px;
+    height: 30px;
+    border-radius: 60px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+    
+}
+
+
+.guessButton {
+    background-color: white;
+    position: absolute;
+    right: 150px;
+    width: 200px;
+    height: 120px;
+    margin-top: -180px;
+    font-size: 20px;
+    color: #000;
+    
+}
+
+#msg {
+    width:240px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.body {background-image: url("vibrant-757820_960_720.jpg");
+background-size: cover;
+text-align: center;
+
+}
+
+h1 {
+    font-family: 'Bangers', cursive;
+    font-size: 120px;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+}
+
+
+.quote {
+font-size: 50px;
+ color:black;
+ font-family: 'Bangers', cursive;
+ -webkit-text-stroke-width: 1px;
+ -webkit-text-stroke-color: white;
+ text-shadow: 0 1px 0 #ccc,
+            0 2px 0 #c9c9c9,
+            0 3px 0 #bbb,
+            0 4px 0 #b9b9b9,
+            0 5px 0 #aaa,
+            0 6px 1px rgba(0,0,0,.1),
+            0 0 5px rgba(0,0,0,.1),
+            0 1px 3px rgba(0,0,0,.3),
+            0 3px 5px rgba(0,0,0,.2),
+            0 5px 10px rgba(0,0,0,.25),
+            0 10px 10px rgba(0,0,0,.2),
+            0 20px 20px rgba(0,0,0,.15);
+
+
+
+
